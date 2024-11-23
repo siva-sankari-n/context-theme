@@ -1,0 +1,25 @@
+.bro1{
+    width:70%;
+    margin: 100px auto;
+}
+h1{
+    padding-left: 60px;
+}
+h2{
+    padding-left: 80px;
+}
+.bro{
+    border:groove;
+}
+.broB{
+    border:groove;
+    margin:5px 50px 50px 50px
+}
+.broC{
+    border:groove;
+    margin:5px 50px 50px 50px
+}
+.broD{
+    border:groove;
+    margin:5px 50px 50px 50px
+}
